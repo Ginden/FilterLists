@@ -265,5 +265,12 @@
     "homeUrl": "https://nssurge.com/",
     "isAbpSubscribable": false,
     "name": "Surge"
+  },
+  {
+    "id": 42,
+    "downloadUrl": "https://apps.apple.com/app/adblock/id691121579",
+    "homeUrl": "https://www.adblockios.com/",
+    "isAbpSubscribable": false,
+    "name": "AdBlock for iOS"
   }
 ]
